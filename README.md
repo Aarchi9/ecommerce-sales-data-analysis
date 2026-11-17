@@ -65,16 +65,27 @@ The analysis explored:
 
 ## Visualizations
 
-Five visualizations were created using Matplotlib:
+The project includes five visualizations created using Matplotlib.
 
-1. Gross Revenue by Product
-2. Gross Revenue by City
-3. Monthly Gross Revenue Trend
-4. Order Status Distribution
-5. Payment Method Distribution
+### 1. Gross Revenue by Product
 
-All generated charts are stored in `visualizations/charts/`.
+![Revenue by Product](visualizations/charts/revenue_by_product.png)
 
+### 2. Gross Revenue by City
+
+![Revenue by City](visualizations/charts/revenue_by_city.png)
+
+### 3. Monthly Gross Revenue Trend
+
+![Monthly Revenue](visualizations/charts/monthly_revenue.png)
+
+### 4. Order Status Distribution
+
+![Order Status](visualizations/charts/order_status.png)
+
+### 5. Payment Method Distribution
+
+![Payment Methods](visualizations/charts/payment_methods.png)
 ## How to Run the Project
 
 1. Clone or download this repository.
